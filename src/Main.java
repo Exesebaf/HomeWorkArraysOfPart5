@@ -1,8 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         Task1_4();
-
-
     }
 
     public static void Task1_4() {
@@ -65,8 +63,6 @@ public class Main {
 
             }
             System.out.println(myArray[i]);
-
-
         }
     }
 
