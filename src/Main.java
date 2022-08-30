@@ -56,6 +56,7 @@ public class Main {
         System.out.println(goodArray[0]);
 
 
+
         // 4 Задание
 
         for (int i = 0; i < myArray.length; i++) {
